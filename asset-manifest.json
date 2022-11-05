@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f2dfa05d.css",
-    "main.js": "/portfolio/static/js/main.2fe2c130.js",
+    "main.js": "/portfolio/static/js/main.29529b33.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Satoshi-VariableItalic.ttf": "/portfolio/static/media/Satoshi-VariableItalic.9519fea9567e2405bc08.ttf",
     "static/media/Satoshi-Variable.ttf": "/portfolio/static/media/Satoshi-Variable.536fda9b164542087fc7.ttf",
@@ -51,11 +51,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/medium.svg": "/portfolio/static/media/medium.60b65a6bf0bf66de32d79d9fe9954baf.svg",
     "main.f2dfa05d.css.map": "/portfolio/static/css/main.f2dfa05d.css.map",
-    "main.2fe2c130.js.map": "/portfolio/static/js/main.2fe2c130.js.map",
+    "main.29529b33.js.map": "/portfolio/static/js/main.29529b33.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2dfa05d.css",
-    "static/js/main.2fe2c130.js"
+    "static/js/main.29529b33.js"
   ]
 }
