@@ -1,0 +1,16 @@
+
+
+
+.back_button {
+    float: left;
+    margin: 0rem 4rem;
+}
+
+.back_button img{
+    height: 48px;
+    width: 48px;
+}
+
+.margin {
+    margin-top: 6rem;
+}

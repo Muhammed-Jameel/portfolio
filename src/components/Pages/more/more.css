@@ -1,0 +1,16 @@
+
+
+h1 {
+    font-size: 5rem;
+    font-weight: 900;
+    color: #FAF8FF;
+}
+
+
+.soon_section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    width: 100%;
+}
