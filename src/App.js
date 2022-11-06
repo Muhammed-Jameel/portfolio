@@ -1,4 +1,4 @@
-import { Route, Routes} from 'react-router-dom'
+import { Link, Route, Routes} from 'react-router-dom'
 import {LandingPage, WorkPage, About, Git, More} from './components/Pages';
 
 import './App.css';
@@ -10,6 +10,7 @@ function App() {
     
 
     <Routes>
+      <Route path="/"  element={ <Link to='/portfolio' />} />
       <Route path="/portfolio"  element={ <LandingPage/>} />
       <Route path="/portfolio/Work" element={ <WorkPage/>}/>
       <Route path="/portfolio/About" element={ <About/>}/>

@@ -25,7 +25,7 @@ const Navbar = () => {
     <>
 
     <div className='navbar_links_container'>
-    <NavLink to="/" className="link logo">MJ</NavLink>
+    <NavLink to="/portfolio" className="link logo">MJ</NavLink>
     
     <NavbarLinksList/>
     
@@ -39,7 +39,7 @@ const Navbar = () => {
 
           {toggleMenu && (
 
-            <div  className="menu_links"> <NavLink to="/" className="link">Home</NavLink> <NavbarLinksList/> </div>
+            <div  className="menu_links"> <NavLink to="/portfolio" className="link">Home</NavLink> <NavbarLinksList/> </div>
           
         )}
     </div>
