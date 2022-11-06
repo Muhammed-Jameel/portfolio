@@ -25,10 +25,10 @@ const LandingPage = () => {
 
         <div className='sections_grid'>
 
-            <div className='work_section gradient-border  shadow-pop-bl section_name'><Link to="/Work"><h2>Work</h2></Link></div>
-            <div className='git_section gradient-border  shadow-pop-bl section_name'><Link to="/Git"><h2>Get in touch</h2></Link></div>
-            <div className='about_section gradient-border  shadow-pop-bl section_name'><Link to="/About"><h2>About</h2></Link></div>
-            <div className='more_section gradient-border  shadow-pop-bl section_name'><Link to="/More"><h2>More</h2></Link></div>
+            <div className='work_section gradient-border  shadow-pop-bl section_name'><Link to="/portfolio/Work"><h2>Work</h2></Link></div>
+            <div className='git_section gradient-border  shadow-pop-bl section_name'><Link to="/portfolio/Git"><h2>Get in touch</h2></Link></div>
+            <div className='about_section gradient-border  shadow-pop-bl section_name'><Link to="/portfolio/About"><h2>About</h2></Link></div>
+            <div className='more_section gradient-border  shadow-pop-bl section_name'><Link to="/portfolio/More"><h2>More</h2></Link></div>
 
         </div>
        

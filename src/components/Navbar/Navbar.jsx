@@ -10,10 +10,10 @@ import Arrow from '../../images/arrow.svg'
 const NavbarLinksList = () => (
   <>
   
-  <NavLink to="/Work" className="link">Work</NavLink>
-    <NavLink to="/About" className="link">About</NavLink>
-    <NavLink to="/Git" className="link">Get in touch</NavLink>
-    <NavLink to="/More" className="link">More</NavLink>
+  <NavLink to="/portfolio/Work" className="link">Work</NavLink>
+    <NavLink to="/portfolio/About" className="link">About</NavLink>
+    <NavLink to="/portfolio/Git" className="link">Get in touch</NavLink>
+    <NavLink to="/portfolio/More" className="link">More</NavLink>
     </>
 )
 
