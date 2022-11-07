@@ -1,12 +1,10 @@
 import React from 'react';
-import Arrow from '../../../images/arrow.svg'
-import { Link, useNavigate } from 'react-router-dom';
 import Navbar from '../../Navbar/Navbar';
 
 import './workPage.css'
 
 const WorkPage = () => {
-  const history = useNavigate();
+  
   return (
     <>
       <Navbar></Navbar>
