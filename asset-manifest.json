@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.132dc7a6.css",
-    "main.js": "/portfolio/static/js/main.5006befb.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/portfolio/static/css/main.94f53c6e.css",
+    "main.js": "/portfolio/static/js/main.0ca1d9d9.js",
+    "static/js/651.0651393f.chunk.js": "/portfolio/static/js/651.0651393f.chunk.js",
+    "static/media/amigos.jpg": "/portfolio/static/media/amigos.54c12afa14be6406daa6.jpg",
     "static/media/Satoshi-VariableItalic.ttf": "/portfolio/static/media/Satoshi-VariableItalic.9519fea9567e2405bc08.ttf",
     "static/media/Satoshi-Variable.ttf": "/portfolio/static/media/Satoshi-Variable.536fda9b164542087fc7.ttf",
     "static/media/Satoshi-MediumItalic.ttf": "/portfolio/static/media/Satoshi-MediumItalic.5db9ec801a311bdf187b.ttf",
@@ -39,22 +40,25 @@
     "static/media/Satoshi-Black.woff2": "/portfolio/static/media/Satoshi-Black.b5013d854bb5a8e48651.woff2",
     "static/media/Satoshi-LightItalic.woff2": "/portfolio/static/media/Satoshi-LightItalic.540a6dd2e29f70e15477.woff2",
     "static/media/Satoshi-Light.woff2": "/portfolio/static/media/Satoshi-Light.df8f06167ee6fd05a131.woff2",
-    "static/media/jquery_icon.svg": "/portfolio/static/media/jquery_icon.c57a6eeddc2ba01eafc44590455c93b8.svg",
-    "static/media/mongodb_icon.svg": "/portfolio/static/media/mongodb_icon.932fe1fdfbb9b7fa273c615f3179335b.svg",
-    "static/media/github.svg": "/portfolio/static/media/github.4a2cd95da8113449850457655eb3300e.svg",
-    "static/media/react_icon.svg": "/portfolio/static/media/react_icon.f1484e295933af0e748d6a01b05a8361.svg",
-    "static/media/node_icon.svg": "/portfolio/static/media/node_icon.3cefb87cef6741167865c3a566932897.svg",
-    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.ab0f58af761e387ce78dec56d3eb9333.svg",
-    "static/media/express-icon.svg": "/portfolio/static/media/express-icon.ea97b712340ffb8f11d85ccb96309507.svg",
-    "static/media/javascript_icon.svg": "/portfolio/static/media/javascript_icon.45687a3d83053bd27bac35627e904d53.svg",
+    "static/media/mongo.svg": "/portfolio/static/media/mongo.22b365c1353d5d5d250105f1604fb205.svg",
+    "static/media/nodejs-logo.svg": "/portfolio/static/media/nodejs-logo.71a8cf08ad923dc0b0e768c7a1185c3a.svg",
+    "static/media/email.svg": "/portfolio/static/media/email.0d06d7fc0f01efc2a2cfadecb76abe08.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.02abbcec342940be35a6297aa9a14fb5.svg",
+    "static/media/React-logo.svg": "/portfolio/static/media/React-logo.e494830c3767dc667c5efba93b8226cf.svg",
+    "static/media/icons8-figma.svg": "/portfolio/static/media/icons8-figma.fb884cfee5f7549d6cceb22a541ac935.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.c43a01f4b3661f44a910343f80aebd1a.svg",
+    "static/media/icons8-javascript.svg": "/portfolio/static/media/icons8-javascript.78960278f6971b4f0ff5c5c99776bf95.svg",
+    "static/media/express-js.svg": "/portfolio/static/media/express-js.98ad04212fd5b9716111ef4d5b7ed861.svg",
+    "static/media/icons8-adobe-photoshop-2.svg": "/portfolio/static/media/icons8-adobe-photoshop-2.69f0f6f0c8b34e2fb165a599d4a650aa.svg",
+    "static/media/icons8-adobe-xd.svg": "/portfolio/static/media/icons8-adobe-xd.d25a8ca50cf95dfd41c9a7fac10465e3.svg",
+    "static/media/medium.svg": "/portfolio/static/media/medium.6e8edbf3eca15f81240e2abec95dfb20.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/medium.svg": "/portfolio/static/media/medium.60b65a6bf0bf66de32d79d9fe9954baf.svg",
-    "main.132dc7a6.css.map": "/portfolio/static/css/main.132dc7a6.css.map",
-    "main.5006befb.js.map": "/portfolio/static/js/main.5006befb.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.94f53c6e.css.map": "/portfolio/static/css/main.94f53c6e.css.map",
+    "main.0ca1d9d9.js.map": "/portfolio/static/js/main.0ca1d9d9.js.map",
+    "651.0651393f.chunk.js.map": "/portfolio/static/js/651.0651393f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.132dc7a6.css",
-    "static/js/main.5006befb.js"
+    "static/css/main.94f53c6e.css",
+    "static/js/main.0ca1d9d9.js"
   ]
 }
